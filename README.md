@@ -116,4 +116,4 @@ We thank the EuroSAT team for the dataset, TensorFlow and Keras developers, Kagg
 4. Zhou et al., 2017, Pattern Recognition in Remote Sensing with CNNs.
 5. Helber et al., 2019, EuroSAT: A Benchmark for Land Use Classification.
 
-*And more...*
+
